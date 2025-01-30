@@ -1,0 +1,1 @@
+A simple, small journal launch exectuable so I can start the journal application from XP-PEN tablet settings on button press (the XP-PEN tools don't allow to pick a windows app from shell:appsfolder)
